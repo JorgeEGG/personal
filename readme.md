@@ -1,6 +1,6 @@
 # REPOSITORIO PERSONAL
 
-## Este es mi repositorio personal en donde haré pruebas de GIT.
+## Este es mi repositorio personal en donde haré pruebas de GIT
 
 Participante:
 
