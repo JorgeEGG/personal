@@ -1,7 +1,8 @@
-# Este es mi repositorio personal
+# REPOSITORIO PERSONAL
 
-## En este repositorio haré pruebas de GIT
+## Este es mi repositorio personal en donde haré pruebas de GIT.
 
 Participante:
 
 Jorge E. González G.
+Kike
