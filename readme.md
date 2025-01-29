@@ -6,4 +6,6 @@ Participante:
 
 Jorge E. González G.
 
-Kike
+Para ejecutr el sistema, debes poner:
+
+````npm install react````
