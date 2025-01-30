@@ -9,3 +9,5 @@ Jorge E. González G.
 Para ejecutr el sistema, debes poner:
 
 ````npm install react````
+
+Sistema de Registro 2
